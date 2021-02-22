@@ -1,0 +1,29 @@
+h1{
+    color:brown ;}
+*{
+    border:solid;}
+.header{
+    background-color: blueviolet;
+    display: flex;
+    justify-content: space-between;
+    background-image: url(https://i.pinimg.com/736x/b0/4c/9c/b04c9cbffc0456ef538e89ce2ef513c7.jpg);
+}
+.grid{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    background-color: violet;
+}
+
+.footer{
+    display: flex;
+    justify-content: flex-end;
+    background-color: yellowgreen;
+}
+
+p{
+    background-color: teal;
+    font-family: monospace;
+    font-weight: 900;
+    font-size: medium;
+}

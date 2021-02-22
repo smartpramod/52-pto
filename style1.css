@@ -1,0 +1,10 @@
+body{
+    background-color:yellow;
+    background-image: url("https://cdn4.vectorstock.com/i/1000x1000/47/13/nice-background-vector-16234713.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: medium;
+    font-style: italic;
+    color: turquoise;
+}
